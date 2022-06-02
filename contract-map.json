@@ -1,4 +1,12 @@
 {
+  "0x909E34d3f6124C324ac83DccA84b74398a6fa173": {
+    "name": "$ZKP Token",
+    "logo": "zkp.png",
+    "erc20": true,
+    "erc721": false,
+    "symbol": "$ZKP",
+    "decimals": 18
+  },
  "0x6B3595068778DD592e39A122f4f5a5cF09C90fE2": {
     "name": "SushiSwap",
     "logo": "sushi.svg",
